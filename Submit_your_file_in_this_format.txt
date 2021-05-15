@@ -1,0 +1,17 @@
+File should be saved as 
+
+RL_Soccer_B1_act_[Your_Name]
+RL_Soccer_B1_target_[Your_Name]
+for agent Blue 1
+
+RL_Soccer_B2_act_[Your_Name]
+RL_Soccer_B2_target_[Your_Name]
+for agent Blue 2
+
+RL_Soccer_P1_act_[Your_Name]
+RL_Soccer_P1_target_[Your_Name]
+for agent Purple 1
+
+RL_Soccer_P2_act_[Your_Name]
+RL_Soccer_P2_target_[Your_Name]
+for agent Purple 2
